@@ -10,7 +10,6 @@ site:
 metadata:
   title:
     default: I2Vest
-    template: '%s — I2Vest'
   description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
   robots:
     index: true
